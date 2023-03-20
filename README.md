@@ -9,11 +9,6 @@
 
 ##
 
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1498px" height="523px" viewBox="0 0 1498 523" enable-background="new 0 0 1498 523" xml:space="preserve">  <image id="image0" width="1498" height="523" x="0" y="0"
-    
-
 
 <div style="display: inline_block"><br>
  <h3>Learning 🌱: </h3><img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
